@@ -5,7 +5,7 @@ DBMS Mini Project
 
 Steps to use run this projet : 
 
-1)Install XAMPP from https://www.apachefriends.org/download.html
+1)Install XAMPP from https://www.apachefriends.org/download.html<br />
 2) Download the food-order folder and pastge it in XAMPP -> htdocs
 3) Open XAMPP Control Pannel and Start Apache module as well as MYSQL module
 4) Go to your web browser and search for localhost in address bar
