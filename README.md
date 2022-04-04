@@ -39,4 +39,4 @@ e)Last pannel is orders pannel where we an main the order details.
 Phone - 8999766846(whatsapp only)
 Linkdin - https://www.linkedin.com/in/swaroop2905/
 
-You can also refer the following link to make this project from scratch -> https://youtube.com/playlist?list=PLBLPjjQlnVXXBheMQrkv3UROskC0K1ctW
+You can also refer the following link to make this project from scratch -> https://youtube.com/playlist?list=PLBLPjjQlnVXXBheMQrkv3UROskC0K1ctW 
