@@ -36,8 +36,5 @@ d)Food pannel is used to add. delete or update food items<br />
 e)Last pannel is orders pannel where we an main the order details.<br />
     -once the order is completed we can update the order to delevired and the revenue generated for the given order will be added in the dashboard<br />
     
-*For any further queries feel free to contact<br />
-Phone - 8999766846(whatsapp only)<br />
-Linkdin - https://www.linkedin.com/in/swaroop2905/<br />
 
-You can also refer the following link to make this project from scratch -> https://youtube.com/playlist?list=PLBLPjjQlnVXXBheMQrkv3UROskC0K1ctW <br />
+You can also refer the following link to build this project from scratch -> https://youtube.com/playlist?list=PLBLPjjQlnVXXBheMQrkv3UROskC0K1ctW <br />
